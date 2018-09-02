@@ -44,7 +44,7 @@ Run in production mode
 npm run prod
 ```
 
-## Testing over HTTPs (tag (https://github.com/MasoudZarjani/rest-api-node-typescript/tree/v1.0.0))
+## Testing over HTTPs
 
 The default URL is: *https://localhost:3000*
 
